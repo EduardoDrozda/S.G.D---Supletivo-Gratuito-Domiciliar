@@ -1,3 +1,4 @@
+﻿Previsão para remotar o desenvolvimento, marcada para Dezembro.
 # S.G.D---Supletivo-Gratuito-Domiciliar
 Projeto desenvolvido no meu segundo ano de engenharia de software no qual estarei iniciando o desenvolvimento, com o objetivo de melhorar meu conhecimento em programação.
 
